@@ -1,0 +1,29 @@
+.weights__text {
+    margin-right: 5px;
+}
+
+.weights__input {
+    height: 30px;
+    width: 30px;
+    border: 1px solid #cea3aa;
+    border-radius: 5px;
+
+}
+
+.weights__input::-webkit-outer-spin-button,
+.weights__input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+.weights__wrap_icon {
+    justify-content: center;
+    margin: 10px 0;
+}
+
+.weights__line {
+    height: 1px;
+    width: 200px;
+    margin: 5px 0 15px 0;
+    background-color: #cea3aa;
+}

@@ -1,0 +1,28 @@
+.remain__wrap {
+    flex-direction: column;
+}
+
+.remain__wrap2 {
+    align-items: center;
+}
+
+.remain__text {
+    margin: 0;
+}
+
+.remain__input {
+    height: 30px;
+    width: 70px;
+    border: 1px solid #cea3aa;
+    border-radius: 5px;
+
+}
+
+.remain__input::-webkit-outer-spin-button,
+.remain__input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+}
+
+.remain__icon {
+    margin: 0 10px;
+}

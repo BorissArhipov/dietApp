@@ -1,0 +1,18 @@
+.wrap {
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background: url("../../img/pattern.jpg") center center / cover;
+}
+
+.wrap-2 {
+    width: 30%;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: cornsilk;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0px 33px 96.46px 9.54px rgba(0, 0, 0, 0.51);
+}

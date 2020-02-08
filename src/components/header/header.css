@@ -1,0 +1,26 @@
+.header__wrap {
+    align-items: center;
+    width: 500px;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+
+.header__title {
+    font-size: 24px;
+}
+
+.header__btn {
+    background: none;
+    padding: 0;
+    border: none;
+    margin-left: 30px;
+}
+
+.header__icon {
+    font-size: 20px;
+    transition: all 0.4s;
+}
+
+.header__icon:hover {
+    color: #cea3aa;
+}
